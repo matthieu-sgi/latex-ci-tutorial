@@ -1282,13 +1282,19 @@ AElFTkSuQmCC
 "
        id="image1196"
        x="-81.575272"
-       y="9.6458893" />
+       y="9.6458893"
+       inkscape:export-filename="/home/msegui/projects/latex-ci-tutorial/media/ci_panel_modifed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <ellipse
        style="fill:none;stroke:#ff0000;stroke-width:0.432021"
        id="path1222"
        cx="-67.65699"
        cy="123.29108"
        rx="11.830769"
-       ry="5.421721" />
+       ry="5.421721"
+       inkscape:export-filename="/home/msegui/projects/latex-ci-tutorial/media/ci_panel_modifed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
